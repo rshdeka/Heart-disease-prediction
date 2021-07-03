@@ -1,3 +1,0 @@
-PS C:\Users\user> & C:/Python39/python.exe c:/Users/user/shapeai_project.py
-Enter any string:rajashri
-Its equivalent is: b'\xfa.\xc8\xa7\x0e\x1d\xc9P`\x87[p\x15@\x13\xac'
