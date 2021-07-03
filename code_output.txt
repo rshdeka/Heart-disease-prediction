@@ -1,0 +1,3 @@
+Enter any string:rajashri
+Its equivalent is: b'\xfa.\xc8\xa7\x0e\x1d\xc9P`\x87[p\x15@\x13\xac'
+Its hexadecimal equivalent is: fa2ec8a70e1dc95060875b70154013ac
