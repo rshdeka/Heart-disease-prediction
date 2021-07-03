@@ -1,3 +1,0 @@
-PS C:\Users\user> & C:/Python39/python.exe c:/Users/user/Desktop/shapeai_project1.py
-Enter any string:rajashri
-fa2ec8a70e1dc95060875b70154013ac
