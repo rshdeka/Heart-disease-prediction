@@ -1,2 +1,2 @@
-# SHAPEAI-bootcamp-project
-Hi, I made this project during the 7 days free Bootcamp conducted by SHAPEAI. I got to learn a lot during this Python and Network Security Bootcamp and it was an overall amazing experience.
+# Heart disease prediction
+This is a project where I've applied Machine Learning models - Logistic Regression and Random Forest Regressor to predict whether a person is suffering from a heart disease or not.
